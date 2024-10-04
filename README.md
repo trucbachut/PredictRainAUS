@@ -1,2 +1,2 @@
 # PredictRainAUS
-Predict rain in Australia using Machine Learning models
+The study uses the Rain in Australia dataset from 1/11/2007 to 25/6/2017, preprocesses the data, then builds a machine learning model such as Logistic regression, Naive Bayes model, Decision tree model to select the model with the best accuracy, and finally uses some advanced techniques such as Recursive feature elimination, k-Fold Cross Validation to improve and enhance the model.
